@@ -1,0 +1,24 @@
+.home-page-main-section{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding:10px;
+}
+
+.home-page-heading{
+    color:rgb(38, 102, 191);
+}
+.home-page-image{
+    height:400px;
+    width:500px;
+}
+
+.get-started-button{
+    background:rgb(161, 222, 246);
+    border:none;
+    border-radius:6px;
+    padding:8px 20px;
+    margin-top:10px;
+    font-size:15px;
+    color:rgb(38, 102, 191);
+}

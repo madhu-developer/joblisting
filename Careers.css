@@ -1,0 +1,38 @@
+.top-section{
+    background:rgb(35, 114, 226);
+    height:20vh;
+    padding:10px 40px;
+}
+.explore-heading{
+    color:skyblue;
+}
+.search-input{
+    width:300px;
+    margin-top:15px;
+}
+.bottom-section{
+    display:flex;
+    margin-top:30px;
+}
+.side-container{
+    padding:10px;
+    width:300px;
+    border-right:1px solid skyblue;
+    background-size:cover;
+    margin:2px;
+    color:rgb(4, 37, 84);
+}
+
+.jobtype-section{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:20px;
+}
+
+.experience-section{
+    display:flex;
+    flex-direction:column;
+}
+.joblisting-container{
+    padding:20px;
+}

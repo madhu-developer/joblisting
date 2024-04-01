@@ -1,0 +1,24 @@
+.job-list{
+    list-style-type:none;
+}
+.each-job-list{
+    background:rgb(161, 222, 246);
+    padding:8px;
+    margin:5px;
+    border-radius:8px;
+}
+.job-openings-heading{
+    color:rgb(4, 37, 84);
+}
+.job-title{
+    color:rgb(4, 37, 84);
+}
+.job-description{
+    color:rgb(4, 37, 84);
+}
+.view-job-button{
+    padding:6px 16px;
+    border:none;
+    border-radius:6px;
+    color:rgb(4, 37, 84);
+}

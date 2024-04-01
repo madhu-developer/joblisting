@@ -1,0 +1,13 @@
+.viewjob-container{
+    color:rgb(4, 37, 84);
+    padding:20px;
+}
+.apply-now-button{
+    background:rgb(161, 222, 246);
+    border:none;
+    border-radius:6px;
+    padding:8px 20px;
+    margin-top:10px;
+    font-size:15px;
+    color:rgb(38, 102, 191);
+}

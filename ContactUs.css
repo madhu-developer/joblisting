@@ -1,0 +1,54 @@
+
+.submit-button{
+    color:rgb(38, 102, 191);
+    border:1px solid rgb(38, 102, 191);
+    border-radius:6px;
+    padding:8px 20px;
+    margin-top:10px;
+    font-size:15px;
+    background:transparent;
+} 
+
+input{
+    margin-top:6px;
+    box-shadow:0px 2px 2px grey;
+    color:rgb(38, 102, 191);
+    border: none;
+    border-radius:5px;
+    padding:10px 60px 10px 10px;
+}
+.choose-file{
+    border: none;
+    box-shadow:0px 2px 2px transparent;
+}
+.contact-details{
+    color:rgb(38, 102, 191);
+}
+
+.login-heading{
+    margin:10px 30px;
+    font-weight:bold;
+    font-size:20px;
+}
+.contactus-container{
+    width:100%;
+    display:flex;  
+    justify-content: center; 
+    align-items:center;
+    margin-top:50px;  
+}
+.contactus-form{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    width:500px;
+    padding:20px 20px;
+    border-radius:10px;
+    background-color: rgb(192, 236, 255);
+    margin-top:20px;
+}
+.login-description{
+    color:rgb(38, 102, 191);
+    padding:10px 15px;
+}

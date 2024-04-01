@@ -1,0 +1,11 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    padding:14px;
+    background:rgb(161, 222, 246);
+    color:rgb(4, 37, 84);
+    font-size:20px;
+    font-weight:bold;
+    text-decoration:none;
+}
+
